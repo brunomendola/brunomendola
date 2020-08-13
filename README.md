@@ -28,4 +28,5 @@ Pretty much evolves itself without manual intervention at random points in time,
 
 Feel free to reach out to the social profiles for some tech chats!
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/brunomendola.svg?style=social&label=Follow%20%40brunomendola)](https://twitter.com/brunomendola)&nbsp;&nbsp;&nbsp;&nbsp;[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/brunomendola)
+[![Linkedin Badge](https://img.shields.io/badge/-brunomendola-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomendola/)](https://www.linkedin.com/in/brunomendola/)
+[![Twitter Badge](https://img.shields.io/badge/-@brunomendola-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brunomendola)](https://twitter.com/brunomendola)
