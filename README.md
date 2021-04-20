@@ -2,7 +2,7 @@
 
 _Homo sapiens_ individual, living in the tech ecosystem.
 
-Trying to make the world of ERPs for fashion better @ [Dedagroup Stealth](https://www.dedagroupstealth.com/).
+Trying to make the world of ERPs cooler @ [Dedagroup Stealth](https://www.dedagroupstealth.com/).
 
 #### Features
 
