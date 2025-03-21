@@ -8,6 +8,10 @@ You might know me for some open source projects like **Querity**, the Java query
 
 I occasionally contribute to open-source projects here on Github and I'm always VERY happy when I find a way to do so.
 
+#### Articles
+
+* [Easily query SQL and NoSQL databases in your Java application with one single language | Medium](https://brunomendola.medium.com/easily-query-sql-and-nosql-databases-in-your-java-application-with-one-single-language-3a7532c75134)
+
 #### Contacts
 
 Feel free to reach out to my social profiles for some tech chats!
