@@ -4,7 +4,7 @@ I'm Bruno and I'm having **A LOT OF FUN** on GitHub!
 
 In the daytime I try to make the world of ERPs cooler @ [Dedagroup Stealth](https://www.dedagroupstealth.com/).
 
-You might know me for some open source projects like **Querity**, the Java query builder... or not. Btw, that's what I'm doing here, so please take a look at [Querity](https://github.com/brunomendola/querity).
+You might know me for some open source projects like **Querity**, the Java query builder... or not. Btw, that's what I'm doing here, so please take a look at [Querity](https://github.com/queritylib/querity).
 
 I occasionally contribute to open-source projects here on Github and I'm always VERY happy when I find a way to do so.
 
